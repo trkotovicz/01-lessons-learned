@@ -1,9 +1,23 @@
 body {
     background-color: rgb(253, 251, 251);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 17px;
 }
 
 #cabecalho {
     top: 0px;
     position: fixed;
-    background-color: aquamarine;
+    background-color: rgb(167, 167, 167);
+    text-align: center;
+}
+#titulo {
+    
+}
+
+#minha_foto {
+    
+}
+
+#texto_requisito8 {
+    text-align: justify;
 }
