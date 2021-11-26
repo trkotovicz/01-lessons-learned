@@ -7,7 +7,7 @@ body {
 #cabecalho {
     top: 0px;
     position: fixed;
-    /* border: 12px rgb(167, 167, 167) solid; */
+    border: 10px rgb(167, 167, 167) solid;
     background-color: rgb(167, 167, 167);
     text-align: center;
     margin-left: 22%;
@@ -17,6 +17,7 @@ nav {
     margin-top: 120px;
     margin-left: 44%;
     text-align: center;
+    color:dimgrey;
     font-size: 22px;
     border: 2px black solid;
     display: inline-block
