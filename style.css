@@ -8,7 +8,6 @@ body {
     top: 0px;
     position: fixed;
     height: auto;
-    /* border: 10px rgb(167, 167, 167) solid; */
     background-color: rgb(167, 167, 167);
     text-align: center;
     margin-left: 22%;
@@ -39,10 +38,17 @@ main {
     padding: 10px;
 }
 
-section{
+aside {
     text-align: justify;
-    width: 180px;
-    margin-left: 20px;
+    margin-top: 40px;
+    margin-left: 50px;
+    width: 865px;
+    display: block;
+}
+
+section {
+    margin-top: 70px;
+    margin-left: 80px;
 }
 
 #minha_foto {
