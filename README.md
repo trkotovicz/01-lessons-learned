@@ -1,10 +1,13 @@
 # Boas vindas ao repositório do projeto Lições Aprendidas!
 
+Esse foi meu primeiro projeto de desenvolvimento web desenvolvido.
+Ele foi feito somente com HTML e CSS.
+
+
 ## O que foi desenvolvido
 
 Foi desenvolvido um site que contem uma série de informações sobre o que eu aprendi na Trybe ao longo dos últimos três blocos. O site possui elementos posicionados e estilizados e além disto, têm semântica apropriada para que seja acessível e melhor ranqueado.
 
----
 
 ## Habilidades Desenvolvidas no Projeto
 
